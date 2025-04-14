@@ -12,8 +12,8 @@
 - **NeurIPS 2024 - Predict New Medicines with BELKA Top %7** [Kaggle LB](https://www.kaggle.com/competitions/leash-BELKA/leaderboard) - [Github](https://github.com/mert-byrktr/NeurIPS-2024---Predict-New-Medicines-with-BELKA)
 - **CIBMTR - Equity in post-HCT Survival Predictions Top %7** [Kaggle LB](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/leaderboard) - [Github](https://github.com/mert-byrktr/CIBMTR-2025-COMPETITION)
 - **ISIC 2024 - Skin Cancer Detection with 3D-TBP Top %8** [Kaggle LB](https://www.kaggle.com/competitions/isic-2024-challenge/leaderboard) - [Github](https://github.com/mert-byrktr/ISIC-2024)
-- **Santa 2024 - The Perplexity Permutation Puzzle Top %8** [Kaggle LB](https://www.kaggle.com/competitions/santa-2024/leaderboard) - [Github](https://github.com/mert-byrktr/SANTA-2024)
-- **Child Mind Institute - Problematic Internet Use Top %10** [Kaggle LB](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/leaderboard) - [Github](https://github.com/mert-byrktr/CMI-2024/tree/main)
+- **Santa 2024 - The Perplexity Permutation Puzzle Top %8** [Kaggle LB](https://www.kaggle.com/competitions/santa-2024/leaderboard) - [Github]([https://github.com/mert-byrktr/SANTA-2024](https://github.com/mert-byrktr/SANTA-2024-COMPETITION))
+- **Child Mind Institute - Problematic Internet Use Top %10** [Kaggle LB](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/leaderboard) - [Github]([https://github.com/mert-byrktr/CMI-2024/tree/main](https://github.com/mert-byrktr/CMI-2024-COMPETITION))
 
 ### 🏆Local Kaggle Competitions
 - **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals) (Top %5)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mert-byrktr/gdz-elektrik-datathon-2024)
