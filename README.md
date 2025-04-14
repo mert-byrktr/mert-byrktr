@@ -5,7 +5,7 @@
 
 ### 🏆Global Kaggle Competitions
 - **#chydv Hackathon 2025 1st/47** [Kaggle LB](https://www.kaggle.com/competitions/chydv-hackathon-2025/leaderboard) - [Github](https://github.com/mert-byrktr/-chydv-Hackathon-2025)
-- **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost)
+- **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost) - [Github](https://github.com/mert-byrktr/PSS4E3-Steel-Plate-Defect)
 - **Rohlik Sales Forecasting Challenge 30th/777 Top %4** [Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard) - [Github](https://github.com/mert-byrktr/ROHLIK-2024)
 - **BirdCLEF 2024 39th/991 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/birdclef-2024/leaderboard) - [Github](https://github.com/mert-byrktr/BIRDCLEF-2024)
 - **BrisT1D Blood Glucose Prediction Competition 30th/634 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/brist1d/leaderboard) - [Github](https://github.com/mert-byrktr/BRIST1D-2024)
