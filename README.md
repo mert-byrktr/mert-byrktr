@@ -14,6 +14,7 @@
 - **ISIC 2024 - Skin Cancer Detection with 3D-TBP Top %8** [Kaggle LB](https://www.kaggle.com/competitions/isic-2024-challenge/leaderboard) - [Github](https://github.com/mert-byrktr/ISIC-2024-COMPETITION)
 - **Santa 2024 - The Perplexity Permutation Puzzle Top %8** [Kaggle LB](https://www.kaggle.com/competitions/santa-2024/leaderboard) - [Github](https://github.com/mert-byrktr/SANTA-2024-COMPETITION)
 - **Child Mind Institute - Problematic Internet Use Top %10** [Kaggle LB](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/leaderboard) - [Github](https://github.com/mert-byrktr/CMI-2024-COMPETITION)
+- **Regression with a Flood Prediction Dataset Top %3** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s4e5/leaderboard) - [Github]()
 
 ### 🏆Local Kaggle Competitions
 - **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals) (Top %5)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mert-byrktr/gdz-elektrik-datathon-2024)
