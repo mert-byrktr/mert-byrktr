@@ -21,6 +21,7 @@
 ### 🏆Local Kaggle Competitions
 - **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals) (Top %5)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mert-byrktr/gdz-elektrik-datathon-2024)
 - **BTK Datathon 2024 - Public 8th/364 (Top %2) / Private 21th/364 (Top % 6)** [Kaggle](https://www.kaggle.com/competitions/datathon-2024/leaderboard) - [Github](https://github.com/mert-byrktr/BTK-DATATHON-2024)
+- **Haier Europe Sell-In Forecasting Datathon 2025 (10th place)** [Kaggle](https://www.kaggle.com/competitions/haier-europe-2025-datathon/leaderboard) - [Github]()
 
 ### 🐍 Python Packages
 - **pso-optimizer** [pso-optimizer](https://pypi.org/project/pso-optimizer/)
