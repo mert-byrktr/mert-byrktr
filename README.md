@@ -2,6 +2,7 @@
 ### 📜 Publications
 - **Swarm Optimization-Based Hyperparameter Selection for Machine Learning Algorithms in Indoor Localization** [Read the paper here](https://ieeexplore.ieee.org/document/10286800)
 - **Indoor Localization with GravNetConv and Dynamic Graphs** [Read the paper here](https://ieeexplore.ieee.org/abstract/document/10773531/authors#authors)
+- **Evaluation of Metaverse as a Learning Environment and Level of Technology Acceptance: An Engineering Example** [Read the paper here](https://onlinelibrary.wiley.com/doi/10.1002/jcal.70195)
 
 ### 🏆Global Kaggle Competitions
 - **#chydv Hackathon 2025 1st/47** [Kaggle LB](https://www.kaggle.com/competitions/chydv-hackathon-2025/leaderboard) - [Github](https://github.com/mert-byrktr/-chydv-Hackathon-2025)
