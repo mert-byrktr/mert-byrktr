@@ -5,6 +5,7 @@
 
 ### 🏆Global Kaggle Competitions
 - **#chydv Hackathon 2025 1st/47** [Kaggle LB](https://www.kaggle.com/competitions/chydv-hackathon-2025/leaderboard) - [Github](https://github.com/mert-byrktr/-chydv-Hackathon-2025)
+- **PS S6E2 Heart Disease Prediction 3rd/4370 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s6e2/leaderboard) - [Github](https://github.com/mert-byrktr/KAGGLE-PS-S6E2-PREDICTING-HEART-DISEASE)
 - **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost) - [Github](https://github.com/mert-byrktr/PSS4E3-Steel-Plate-Defect)
 - **PS S5E5 Predict Calorie Expenditure 16th/4316 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s5e5/leaderboard)
 - **Regression with a Flood Prediction Dataset Top %3** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s4e5/leaderboard)
