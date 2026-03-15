@@ -8,7 +8,7 @@
 - **#chydv Hackathon 2025 1st/47** [Kaggle LB](https://www.kaggle.com/competitions/chydv-hackathon-2025/leaderboard) - [Github](https://github.com/mert-byrktr/-chydv-Hackathon-2025)
 - **PS S6E2 Heart Disease Prediction 3rd/4370 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s6e2/leaderboard) - [Github](https://github.com/mert-byrktr/KAGGLE-PS-S6E2-PREDICTING-HEART-DISEASE)
 - **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost) - [Github](https://github.com/mert-byrktr/PSS4E3-Steel-Plate-Defect)
-- **PS S5E5 Predict Calorie Expenditure 16th/4316 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s5e5/leaderboard)
+- **PS S5E5 Predict Calorie Expenditure 16th/4316 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s5e5/leaderboard) - [Github](https://github.com/mert-byrktr/PS-SEASON-5-EPISODE-5)
 - **Regression with a Flood Prediction Dataset Top %3** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s4e5/leaderboard)
 - **Rohlik Sales Forecasting Challenge 30th/777 Top %4** [Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard) - [Github](https://github.com/mert-byrktr/ROHLIK-2024)
 - **BirdCLEF 2024 39th/991 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/birdclef-2024/leaderboard) - [Github](https://github.com/mert-byrktr/BIRDCLEF-2024)
