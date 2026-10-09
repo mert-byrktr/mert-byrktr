@@ -12,7 +12,7 @@
 - **PS S5E5 Predict Calorie Expenditure 16th/4316 Top %1** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s5e5/leaderboard) - [Github](https://github.com/mert-byrktr/PS-SEASON-5-EPISODE-5)
 - **Regression with a Flood Prediction Dataset Top %3** [Kaggle LB](https://www.kaggle.com/competitions/playground-series-s4e5/leaderboard)
 - **Rohlik Sales Forecasting Challenge 30th/777 Top %4** [Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard) - [Github](https://github.com/mert-byrktr/ROHLIK-2024)
-- **ROGII - Wellbore Geology Prediction(Silver Medal)** [Kaggle LB](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/leaderboard) - [Github]()
+- **ROGII - Wellbore Geology Prediction (Silver Medal)** [Kaggle LB](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/leaderboard) - [Github]()
 - **BirdCLEF 2024 (Silver Medal)** [Kaggle LB](https://www.kaggle.com/competitions/birdclef-2024/leaderboard) - [Github](https://github.com/mert-byrktr/BIRDCLEF-2024)
 - **BrisT1D Blood Glucose Prediction Competition 30th/634 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/brist1d/leaderboard) - [Github](https://github.com/mert-byrktr/BRIST1D-2024)
 - **CMI - Detect Behavior with Sensor Data (Bronze Medal)** [Kaggle LB](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/leaderboard) - [Github](https://github.com/mert-byrktr/CMI-2025)
